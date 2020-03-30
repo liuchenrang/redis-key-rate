@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2d5ebf0-b3f9-4603-993f-d6f96cf1c2c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ZZGAT8pOBoVrlyFuoAWV55AAio" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/protocol/redis" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/protocol/redis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build duoduo.com/redis-rate">
+    <configuration name="go build duoduo.com/redis-rate" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo-go-tcp" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-assembly_debug_log -r opensearch.pacp -keyExp OpenSearchCmsTbkIte::getCmsItems" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="duoduo.com/redis-rate" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestStateKey_CalcRate in duoduo.com/redis-rate/protocol/redis" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="demo-go-tcp" />
+      <working_directory value="$PROJECT_DIR$/protocol/redis" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="duoduo.com/redis-rate/protocol/redis" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestStateKey_CalcRate$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build duoduo.com/redis-rate" />
+      <item itemvalue="Go Test.TestStateKey_CalcRate in duoduo.com/redis-rate/protocol/redis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build duoduo.com/redis-rate" />
+        <item itemvalue="Go Test.TestStateKey_CalcRate in duoduo.com/redis-rate/protocol/redis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>http://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585215117857">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state x="424" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585215117857" />
+    <state x="723" y="247" key="#xdebugger.evaluate" timestamp="1585213617556">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state x="723" y="247" key="#xdebugger.evaluate/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585213617556" />
+    <state width="1878" height="334" key="GridCell.Tab.0.bottom" timestamp="1585222154017">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585216757229" />
+    <state width="1878" height="334" key="GridCell.Tab.0.bottom/1920.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585222154017" />
+    <state width="1878" height="334" key="GridCell.Tab.0.center" timestamp="1585222154015">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.center/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585216757226" />
+    <state width="1878" height="334" key="GridCell.Tab.0.center/1920.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585222154015" />
+    <state width="1878" height="334" key="GridCell.Tab.0.left" timestamp="1585222154015">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.left/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585216757224" />
+    <state width="1878" height="334" key="GridCell.Tab.0.left/1920.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585222154015" />
+    <state width="1878" height="334" key="GridCell.Tab.0.right" timestamp="1585222154016">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.right/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585216757227" />
+    <state width="1878" height="334" key="GridCell.Tab.0.right/1920.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585222154016" />
+    <state width="1878" height="334" key="GridCell.Tab.1.bottom" timestamp="1585222154023">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="334" key="GridCell.Tab.1.bottom/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585215912489" />
+    <state width="1878" height="334" key="GridCell.Tab.1.bottom/1920.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585222154023" />
+    <state width="1878" height="334" key="GridCell.Tab.1.center" timestamp="1585222154020">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="334" key="GridCell.Tab.1.center/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585215912488" />
+    <state width="1878" height="334" key="GridCell.Tab.1.center/1920.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585222154020" />
+    <state width="1878" height="334" key="GridCell.Tab.1.left" timestamp="1585222154019">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="334" key="GridCell.Tab.1.left/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585215912487" />
+    <state width="1878" height="334" key="GridCell.Tab.1.left/1920.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585222154019" />
+    <state width="1878" height="334" key="GridCell.Tab.1.right" timestamp="1585222154022">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="334" key="GridCell.Tab.1.right/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585215912489" />
+    <state width="1878" height="334" key="GridCell.Tab.1.right/1920.23.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585222154022" />
+    <state x="469" y="173" key="SettingsEditor" timestamp="1585187580279">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state x="469" y="173" key="SettingsEditor/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585187580279" />
+    <state width="640" height="370" key="XDebugger.FullValuePopup" timestamp="1585208985971">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state width="640" height="370" key="XDebugger.FullValuePopup/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585208985971" />
+    <state x="740" y="264" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1585204880699">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state x="740" y="264" key="com.goide.refactor.move.GoMoveDeclarationDialog/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585204880699" />
+    <state x="100" y="123" width="1720" height="822" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585211775725">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state x="100" y="123" width="1720" height="822" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585211775725" />
+    <state x="510" y="278" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585214819476">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state x="510" y="278" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585214819476" />
+    <state x="623" y="298" width="673" height="472" key="find.popup" timestamp="1585210522631">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state x="623" y="298" width="673" height="472" key="find.popup/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585210522631" />
+    <state x="625" y="185" width="670" height="676" key="search.everywhere.popup" timestamp="1585191549478">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state x="625" y="185" width="670" height="676" key="search.everywhere.popup/1920.23.1280.777/0.23.1920.1022@0.23.1920.1022" timestamp="1585191549478" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>95</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/protocol/http.go</url>
+          <line>71</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file:///usr/local/Cellar/go/1.13/libexec/src/bufio/bufio.go</url>
+          <line>255</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/protocol/redis.go</url>
+          <line>97</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
